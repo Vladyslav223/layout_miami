@@ -144,6 +144,8 @@ p {
     width: 115px;
     height: 76px;
     margin-top: 25px; }
+  .header__i {
+    display: none; }
   .header__call {
     text-decoration: none;
     border-bottom: 1px dashed #606060;
